@@ -275,6 +275,36 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>GloriousGrimmMusic</Name>
+        <Description>Listen to the more intense layer of Grimm's theme for the whole fight</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="E8D681555E3A93685C6DD210B19D3FB03E95AF111F3AD8F31A334DC32F8010F6"><![CDATA[https://github.com/TheMathGeek314/GloriousGrimmMusic/releases/download/v1.0.0.0/GloriousGrimmMusic.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/GloriousGrimmMusic/]]>
+        </Repository>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>GarfieldStorage</Name>
+        <Description>This mod explains itself</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="79813426CE73B0DC9EA4F43A651A83AD911A1EBB86ECF6B0C1DD8D400CC42665"><![CDATA[https://github.com/TheMathGeek314/GarfieldStorage/releases/download/v1.0.0.0/GarfieldStorage.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/GarfieldStorage/]]>
+        </Repository>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>DebugCharms</Name>
         <Description>A Debug extension specifically for charms</Description>
         <Version>1.0.1.0</Version>
@@ -1255,9 +1285,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>4.0.0.5</Version>
-        <Link SHA256="1D557F3EBDDF4A26884AF5C1D599C8AF3A1FEAB394DEE14367FA7B84251D49D8">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.0.5/BreakableWallRandomizer.zip]]>
+        <Version>4.0.0.6</Version>
+        <Link SHA256="CD12F40F9ECE256A0466C6E70289444141CC84682F10F27254FB817F85F0B40B">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.0.6/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -2911,9 +2941,9 @@ All with an incredible new soundtrack!</Description>
         <Name>CustomBgm</Name>
         <DisplayName>Custom BGM</DisplayName>
         <Description>Allows customization of background music. See its readme for a how-to.</Description>
-        <Version>1.5.4.0</Version>
-        <Link SHA256="F0715A32FDAAD6495329536A0415CBD39297588ADD2EAE072BB7687AF882751C">
-            <![CDATA[https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.4.0/CustomBgm.zip]]>
+        <Version>1.5.5.0</Version>
+        <Link SHA256="EED2320FE6A4A0836D873C4C423A4F57750A93312A6D220459514D27373AB4E9">
+            <![CDATA[https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.5.0/CustomBgm.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -3425,6 +3455,31 @@ All with an incredible new soundtrack!</Description>
         </Repository>
         <Issues>
             <![CDATA[https://github.com/SFGrenade/ScenePainter/issues/]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>ScreenResolution</Name>
+        <DisplayName>Screen Resolution</DisplayName>
+        <Description>Adds more available screen resolution options.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="F6D78D2A01D6D9C9D6F1050F122BCFFD579405B728DA1DFFF54008D131B38153">
+            <![CDATA[https://github.com/SFGrenade/ScreenResolution/releases/download/v1.5.0.0/ScreenResolution.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/ScreenResolution/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/ScreenResolution/issues/]]>
         </Issues>
         <Tags>
             <Tag>Utility</Tag>
@@ -6884,9 +6939,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.6.5.0</Version>
-        <Link SHA256="7AD8873F8CB37F28E66ED61B7FB0AF43012D0602839BADD60FD67848A259EA7C">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.6.5/RandoMapMod.zip]]>
+        <Version>3.6.6.0</Version>
+        <Link SHA256="E5B60815E1A9125689BE0F1912EAA0CD02D152430188EDA7B20C000AAB05CD49">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.6.6/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -7313,9 +7368,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RCPathfinder</Name>
         <Description>A pathfinder library for RandomizerCore.</Description>
-        <Version>1.4.2.0</Version>
-        <Link SHA256="1D25FA80183942176678E5F44294BC1AC0BA034042A014DD209CE4E0079C8395">
-            <![CDATA[https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.4.2/RCPathfinder.zip]]>
+        <Version>1.4.5.0</Version>
+        <Link SHA256="64A215FE7818543C68D1AB5FE1D8D8C924FAA825DF29F6A2F098CFC1052E98EE">
+            <![CDATA[https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.4.5/RCPathfinder.zip]]>
         </Link>
         <Dependencies>
             <Dependency>RandomizerCore</Dependency>
@@ -8698,9 +8753,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>CharmPatch</Name>
         <Description>This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.</Description>
-        <Version>1.4.1.0</Version>
-        <Link SHA256="3D4C33D5D7ED075D175F2855E27192CD4662970B66063D304216A683D21657F8">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.4.1.0/CharmPatch.zip]]>
+        <Version>1.4.1.1</Version>
+        <Link SHA256="ADA3859EED2C2252B2E16940BED13EAF7328204ECC32C30EB6802BF396C17F80">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.4.1.1/CharmPatch.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMirror</Dependency>
@@ -8928,9 +8983,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RandoMapCore</Name>
         <Description>A library for RandoMapMod and ArchipelagoMapMod.</Description>
-        <Version>1.0.12.0</Version>
-        <Link SHA256="30F18BA26CCC8A1F84536EDB160CBCD840727619A9736EEA526AC1545B6F7B16">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.12/RandoMapCore.zip]]>
+        <Version>1.0.14.0</Version>
+        <Link SHA256="098D39FA97E70A566370B69A61CEDA6A17DF9CAC747BC7816E18A8EA1386A58B">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.14/RandoMapCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
@@ -9039,6 +9094,115 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>Hien Ngo</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Mask Remover</Name>
+        <Description>Removes masks from the HUD. Useful for radiant fights.</Description>
+        <Version>1.0.3.0</Version>
+        <Link SHA256="8D62311DDFA627332A388B85E2CED04DB0F798E7DE6F949B0EC53540D2627976">
+            <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.MaskRemover/releases/download/v1.0.3/MaskRemover.dll]]>
+        </Link>
+        <Dependencies></Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.MaskRemover]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>EarlyHemisphere</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Geo Remover</Name>
+        <Description>Removes geo icons from the HUD.</Description>
+        <Version>1.0.3.0</Version>
+        <Link SHA256="E90909768FBE2AA5D241FCF96F9F7E52B7CE5D2DC5CAF829E523D16E79268224">
+            <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.GeoRemover/releases/download/v1.0.3/GeoRemover.dll]]>
+        </Link>
+        <Dependencies></Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.GeoRemover]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>EarlyHemisphere</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Invulnerability Indicator</Name>
+        <Description>Adds a visual indicator when the player character is invulnerable outside of screen transitions, invincibility, and invulnerability that is already visually indicated.</Description>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="12C80DBB252C8D39E1FCD5EA39D20576F691008E454B4C2BD6EBB0E097F46B28">
+            <![CDATA[https://github.com/EarlyHemisphere/HK-Invulnerability-Indicator/releases/download/v1.0.1/InvulnerabilityIndicator.dll]]>
+        </Link>
+        <Dependencies></Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/EarlyHemisphere/HK-Invulnerability-Indicator]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>EarlyHemisphere</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Collision Glitch Remover</Name>
+        <Description>Removes collision-based glitches such as the Gruz mother wall bounce and Collector "sticky feet" glitch. Works the same way as CollectorGlitchRemover except it fixes every scene. Can be enabled along with CollectorGlitchRemover or instead of CollectorGlitchRemover.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="B14AAC4CBC3F51A747A10CD5E53880DBF49B959789FC3FE56ECA47BF5C9024AF">
+            <![CDATA[https://github.com/EarlyHemisphere/HK.CollisionGlitchRemover/releases/download/v1.0.0/CollisionGlitchRemover.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/EarlyHemisphere/HK.CollisionGlitchRemover]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>EarlyHemisphere</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>RainbowShinies</Name>
+        <Description>Makes all shinies have a random color</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="8ee2f97d80e553f06c7dc1fa6a45b8c273b1f11805942192f11e56bb0c64f635">https://github.com/dpinela/RainbowShinies/releases/download/v1.0/RainbowShinies.zip</Link>
+        <Dependencies></Dependencies>
+        <Repository>https://github.com/dpinela/RainbowShinies</Repository>
+    </Manifest>
+    <Manifest>
+        <Name>Architect</Name>
+        <Description>A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="84dcafc19bd7a3f65b14a16d13a34c422f6e67c56c9334ff03c29c318eb071d4">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/Release/Architect.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/cometcake575/Architect]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/cometcake575/Architect/issues]]>
+        </Issues>
+        <Integrations>
+            <Integration>HKMP</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>cometcake575</Author>
         </Authors>
     </Manifest>
 </ModLinks>
